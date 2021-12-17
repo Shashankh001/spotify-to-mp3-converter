@@ -31,7 +31,7 @@ If you dont know how to get your directory, here is how:
 now you will have to answer this question:
 ![image](https://user-images.githubusercontent.com/72354934/146515764-88c3fef1-9c29-446f-a7cf-8edfa805c6d3.png)
 
-If you want to download a song, type `sound` and press enter. If its a playlist, type `playlist` and press enter.
+If you want to download a song, type `song` and press enter. If its a playlist, type `playlist` and press enter.
 
 After that, input the link of the song/playlist 
 ![image](https://user-images.githubusercontent.com/72354934/146515914-ba5fb91b-5bb3-42c7-8359-0811a880af8f.png)
