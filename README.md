@@ -18,9 +18,9 @@ If you dont know how to get your directory, here is how:
 
 2. Go to the location where you would like to save the songs.
 
-3.  ![image](https://user-images.githubusercontent.com/72354934/146515575-20d3082c-e0d5-46c8-8e44-f871f1ead52c.png)
+  ![image](https://user-images.githubusercontent.com/72354934/146515575-20d3082c-e0d5-46c8-8e44-f871f1ead52c.png)
     
-    click next to music
+3.  click next to music
     
 4. Your directory should be highlighted as follows
 
