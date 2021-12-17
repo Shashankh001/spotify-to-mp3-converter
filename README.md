@@ -26,7 +26,7 @@ If you dont know how to get your directory, here is how:
 
 5. ![image](https://user-images.githubusercontent.com/72354934/146515675-db0d566d-7c10-4317-b7fc-c8b801f3d7f3.png)
 
-6. Simple press `Ctrl + c` and you have your directory copied!!
+6. Simply press `Ctrl + c` and you have your directory copied!!
 
 now you will have to answer this question:
 ![image](https://user-images.githubusercontent.com/72354934/146515764-88c3fef1-9c29-446f-a7cf-8edfa805c6d3.png)
